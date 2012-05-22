@@ -2,7 +2,7 @@ require "phantomjs-mac/version"
 
 module Phantomjs
   def self.executable_path
-    Linux.full_path
+    Mac.full_path
   end
 
   module Mac
