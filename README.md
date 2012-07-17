@@ -4,7 +4,7 @@ A simple binary for Phantom.js for Mac.
 
 This contains just the static mac build from here.
 
-http://code.google.com/p/phantomjs/downloads/detail?name=phantomjs-1.5.0-macosx-static.zip&can=2&q=
+http://code.google.com/p/phantomjs/downloads/detail?name=phantomjs-1.6.0-macosx-static.zip&can=2&q=
 
 
 it is used as a proto gem for this:
