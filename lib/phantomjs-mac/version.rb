@@ -1,5 +1,5 @@
 module Phantomjs
   module Mac
-    VERSION = "0.0.4"
+    VERSION = "1.9.0"
   end
 end
